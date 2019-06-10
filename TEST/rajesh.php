@@ -1,1 +1,2 @@
-<?php echo "first code";?>
+<?php echo "first code";
+echo "Second code;"?>
