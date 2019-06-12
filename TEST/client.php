@@ -1,1 +1,2 @@
-<?php echo "client first code";?>
+<?php echo "client first code";
+echo "client second code";?>
